@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-01-03T16:22:11+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Your awesome title</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2025/01/03/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2025-01-03T15:57:13+08:00</published><updated>2025-01-03T15:57:13+08:00</updated><id>http://localhost:4000/jekyll/update/2025/01/03/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2025/01/03/welcome-to-jekyll.html"><![CDATA[<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
+
+<p>Jekyll requires blog post files to be named according to the following format:</p>
+
+<p><code class="language-plaintext highlighter-rouge">YEAR-MONTH-DAY-title.MARKUP</code></p>
+
+<p>Where <code class="language-plaintext highlighter-rouge">YEAR</code> is a four-digit number, <code class="language-plaintext highlighter-rouge">MONTH</code> and <code class="language-plaintext highlighter-rouge">DAY</code> are both two-digit numbers, and <code class="language-plaintext highlighter-rouge">MARKUP</code> is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.</p>
+
+<p>Jekyll also offers powerful support for code snippets:</p>
+
+<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
+  <span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
+<span class="k">end</span>
+<span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span>
+<span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre></figure>
+
+<p>Check out the <a href="https://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.]]></summary></entry><entry><title type="html">My First Blog Post</title><link href="http://localhost:4000/blogging/2025/01/03/my-first-post.html" rel="alternate" type="text/html" title="My First Blog Post" /><published>2025-01-03T00:00:00+08:00</published><updated>2025-01-03T00:00:00+08:00</updated><id>http://localhost:4000/blogging/2025/01/03/my-first-post</id><content type="html" xml:base="http://localhost:4000/blogging/2025/01/03/my-first-post.html"><![CDATA[<h1 id="welcome-to-my-blog">Welcome to My Blog</h1>
+
+<p>This is my first blog post.</p>
+
+<h2 id="why-i-started-this-blog">Why I Started This Blog</h2>
+
+<p>Here I’ll share my thoughts and experiences…</p>
+
+<h2 id="markdown-examples">Markdown Examples</h2>
+
+<h3 id="1-lists">1. Lists</h3>
+<ul>
+  <li>First point</li>
+  <li>Second point
+    <ul>
+      <li>Sub-item</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="2-code-blocks">2. Code Blocks</h3>
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nf">print</span><span class="p">(</span><span class="sh">"</span><span class="s">Hello World!</span><span class="sh">"</span><span class="p">)</span>
+</code></pre></div></div>
+
+<h3 id="3-quotes">3. Quotes</h3>
+<blockquote>
+  <p>This is a quoted text</p>
+</blockquote>
+
+<h3 id="4-links">4. Links</h3>
+<p><a href="https://github.com/your-username">My GitHub</a></p>
+
+<h3 id="5-images">5. Images</h3>
+<p><img src="/assets/images/sample.jpg" alt="Show Image" /></p>
+
+<h3 id="6-command-line-code">6. Command Line Code</h3>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>bundle <span class="nb">exec </span>jekyll serve
+</code></pre></div></div>
+
+<h3 id="7-inline-code">7. Inline Code</h3>
+<p>Use <code class="language-plaintext highlighter-rouge">jekyll serve</code> to start the server</p>
+
+<h3 id="8-bold-and-italic">8. Bold and Italic</h3>
+<p><strong>This is bold text</strong><br />
+<em>This is italic text</em></p>
+
+<h3 id="9-tables">9. Tables</h3>
+<p>| Header 1 | Header 2 |
+|———-|———-|
+| Cell 1   | Cell 2   |</p>]]></content><author><name></name></author><category term="blogging" /><category term="first-post" /><category term="introduction" /><summary type="html"><![CDATA[Welcome to My Blog]]></summary></entry></feed>
